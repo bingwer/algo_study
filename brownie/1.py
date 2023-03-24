@@ -35,15 +35,15 @@ def setScore(list, n):
 
 # [2, 1, 2, 3, 1, 2, 3, 1, 1, 2, 3, 1] > 2
 
-			# if 1 == gList[:-1]:
-			# 	score += 1
-			# elif 2 == gList[:-1]:
-			# 	score += 1
-			# 	if 1 == gList[:-2]:
-			# 		score += 1
-			# elif 3 == gList[:-1]:
-			# 	score += 1
-			# 	if 2 == gList[:-2]:
-			# 		score += 1
-			# 		if 1 == gList[:-3]:
-			# 			score += 1
+# if 1 == gList[:-1]:
+# 	score += 1
+# elif 2 == gList[:-1]:
+# 	score += 1
+# 	if 1 == gList[:-2]:
+# 		score += 1
+# elif 3 == gList[:-1]:
+# 	score += 1
+# 	if 2 == gList[:-2]:
+# 		score += 1
+# 		if 1 == gList[:-3]:
+# 			score += 1
